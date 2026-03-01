@@ -6,7 +6,7 @@
 
 |周|内容|课件|
 |:---------:|:---------:|:------------------:|
-| 1 | 课程入门 | [slides](slides/L1-课程介绍.pdf), [notes/第1章-课程介绍.pdf](notes)|
+| 1 | 课程入门 | [slides](slides/L1-课程介绍.pdf), [notes](notes/第1章-课程介绍.pdf)|
 | 2 | 词法分析 | <!--[slides](slides/L2-词法分析.pdf) --> |
 | 3 | 上下文无关文法 | <!--[slides](slides/L3-上下文无关文法.pdf) -->|
 | 4 | 自顶向下解析 | <!--[slides](slides/L4-自顶向下解析.pdf) -->|
